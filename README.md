@@ -6,6 +6,9 @@ This repository presents a university assignment project that focuses on designi
 
 The primary objective of this project was to develop a database that manages various aspects of a metallurgical business.
 
+![Entity Relationship Schema](ER_shema.png)
+![Relation Model](R_model.png)
+
 ## Features
 
 The database schema includes several interconnected tables, each representing a key entity within the enterprise:
